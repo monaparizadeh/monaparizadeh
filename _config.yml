@@ -1,0 +1,8 @@
+title: Mona Parizadeh, PhD, PDF
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Custom theme options
+github:
+  is_project_page: true
+  repository_url: https://memoll.github.io/monaparizadeh/
