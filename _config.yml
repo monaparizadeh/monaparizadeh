@@ -13,10 +13,10 @@ title                    : "Mona Parizadeh, PhD, PDF"
 title_separator          : "-"
 name                     : &name "Mona Parizadeh"
 description              : &description "Academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://memoll.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://monaparizadeh.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/monaparizadeh"
-repository               : "memol/monaparizadeh.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/monaparizadeh.github.io"
+repository               : "monaparizadeh/monaparizadeh.github.io"
 
 
 
